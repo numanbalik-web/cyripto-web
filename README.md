@@ -146,7 +146,6 @@ crypto-web/
 
 ---
 
-
 ⭐ If you found this project helpful, please consider giving it a **star**!  
 Made with ❤️ by **Numan Balık** 🇸🇪
 
