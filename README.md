@@ -32,11 +32,26 @@ Organized asset management
 Cross-browser compatibility
 Clean and readable codebase
 </td> </tr> </table>
-🎥 Live Demo Preview
-<div align="center">
-</div>
-🖼️ Screenshots Gallery
-<div align="center">
+## 🎥 Demo
+
+![Demo](screen/demo.video.gif)
+
+---
+
+## 🖼️ Screenshots
+
+![Screen 1](screen/screen1.png)
+
+![Screen 2](screen/screen2.png)
+
+![Screen 3](screen/screen3.png)
+
+![Screen 4](screen/screen4.png)
+
+![Screen 5](screen/screen5.png)
+
+![Full Screen](screen/fullscreen.png)
+
 🏠 Hero & Landing Section
 
 📊 Market / Feature Section
@@ -111,7 +126,7 @@ Asset Organization
 Documentation Standards
 </td> </tr> </table>
 🙏 Acknowledgments
-🎓 Udemig
+🎓 @udemig
 This project was developed as part of my frontend development journey through Udemig. The structured training and real-world project focus significantly improved my architectural thinking and implementation discipline.
 👨‍🏫 Mehmet Can SEYHAN – Mentor
 Special thanks to Mehmet Can SEYHAN for professional mentorship and structured technical guidance throughout the learning process.
