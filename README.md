@@ -131,18 +131,30 @@ Your teaching approach helped me build not only UI skills but also professional 
 ---
 
 crypto-web/
+
 ├── index.html
+
 ├── style.css
+
 ├── README.md
+
 ├── images/
+
 └── screen/
+
 ├── demo.video.gif
-├── screen1.png
-├── screen2.png
-├── screen3.png
-├── screen4.png
-├── screen5.png
-└── fullscreen.png
+
+├── screen1
+
+├── screen2
+
+├── screen3
+
+├── screen4
+
+├── screen5
+
+└── fullscreen
 
 ---
 
