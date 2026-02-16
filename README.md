@@ -130,33 +130,6 @@ Your teaching approach helped me build not only UI skills but also professional 
 
 ---
 
-crypto-web/
-
-├── index.html
-
-├── style.css
-
-├── README.md
-
-├── images/
-
-└── screen/
-
-├── demo.video.gif
-
-├── screen1
-
-├── screen2
-
-├── screen3
-
-├── screen4
-
-├── screen5
-
-└── fullscreen
-
----
 
 ⭐ If you found this project helpful, please consider giving it a **star**!  
 Made with ❤️ by **Numan Balık** 🇸🇪
