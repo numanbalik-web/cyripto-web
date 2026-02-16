@@ -1,88 +1,152 @@
 
-# 🚀 Crypto Web
+# 🚀 Crypto Web – Modern Cryptocurrency Landing Page 💎
 
-## 📌 Project Description
+<div align="center">
 
-Crypto Web is a modern cryptocurrency landing page built to strengthen core frontend development fundamentals and responsive layout skills.
+![Crypto Web Banner](screen/screen1.png)
 
-The project emphasizes clean HTML structure, scalable CSS organization, strong visual hierarchy, and a professional UI composition. It reflects a structured beginner-to-junior frontend workflow with attention to readability, maintainability, and presentation quality.
+### ✨ Professional, Responsive & Portfolio-Ready Frontend Project
+
+[![HTML5](https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Flexbox](https://img.shields.io/badge/Flexbox-Layout-0A66C2?style=for-the-badge)](#)
+[![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-22c55e?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+
+</div>
 
 ---
 
-## 🎥 Demo Video
+## 📌 Overview 🧠
 
-![Demo Video](screen/demo.video.gif)
+Crypto Web is a modern cryptocurrency landing page built with **pure HTML & CSS**.  
+The goal of this project is to demonstrate **clean structure**, **strong visual hierarchy**, and **responsive layout discipline** in a real-world styled crypto interface. ✅
+
+🎯 **Focus areas:**
+- Clean & semantic HTML structure 🧱  
+- Scalable CSS organization 🎨  
+- Modern layout using Flexbox 🧩  
+- Mobile-first responsive design 📱  
+- Portfolio-ready documentation & presentation ⭐
 
 ---
 
-## 🖼️ Screenshots
+## 🎥 Demo Preview 🎬
+
+A quick look at the full UI flow and layout behavior:
+
+![Demo](screen/demo.video.gif)
+
+---
+
+## 🖼️ Screenshots Gallery 🧾
+
+Below are key sections of the interface (with short notes to keep the page easy to scan 👀):
 
 ### 🏠 Hero & Landing Section
-![Hero & Landing](screen/screen1.png)
+Big visual identity + clear call-to-action structure.
+
+![Hero](screen/screen1.png)
+
+---
 
 ### 📊 Market / Feature Section
-![Market / Feature](screen/screen2.png)
+Feature blocks with clean hierarchy and readability-focused spacing.
 
-### 💼 Services & Information Blocks
-![Services & Information Blocks](screen/screen3.png)
+![Market](screen/screen2.png)
+
+---
+
+### 🧰 Services & Information Blocks
+Modular content structure with consistent layout rules.
+
+![Services](screen/screen3.png)
+
+---
 
 ### 📱 Responsive Layout Example
-![Responsive Layout](screen/screen4.png)
+Responsive behavior across screen sizes using flexible layout principles.
+
+![Responsive](screen/screen4.png)
+
+---
 
 ### 🔍 UI Detail View
-![UI Detail View](screen/screen5.png)
+Typography, spacing, and visual consistency details.
 
-### 🖥️ Full Page Overview
-![Full Page Overview](screen/fullscreen.png)
-
----
-
-## 🛠 Technologies Used
-
-- **HTML5** (semantic and structured markup)
-- **CSS3** (layout, styling, visual hierarchy)
-- **Flexbox** (modern layout system)
-- **Responsive Design Principles**
-- **Git & GitHub** (version control and repository management)
+![Detail](screen/screen5.png)
 
 ---
 
-## 📂 Project Structure
+### 🖥️ Full Page Overview (Full Screenshot)
+Complete page view from top to footer (overall structure in one frame).
 
-- `index.html` – main HTML file  
-- `style.css` – main stylesheet  
-- `images/` – image assets used in the project  
-- `screen/` – demo video and screenshots for documentation  
-- `README.md` – project documentation  
+![Full Page](screen/fullscreen.png)
 
 ---
 
-## 🎯 Purpose
+## 🛠️ Technologies & Tools 🧑‍💻
 
-This project was created as part of a frontend development training process to:
+### ✅ Core Technologies
+- 🧱 **HTML5** – semantic, structured markup  
+- 🎨 **CSS3** – layout, styling, visual hierarchy  
+- 🧩 **Flexbox** – modern layout system  
+- 📱 **Responsive Design** – mobile-first approach  
 
-- Practice semantic HTML structuring  
-- Improve CSS layout and responsive design skills  
-- Strengthen UI composition and visual hierarchy understanding  
-- Build clean project organization habits  
-- Improve GitHub documentation and presentation discipline  
-
----
-
-## 👨‍💻 Author
-
-**Numan Balık**  
-- GitHub: https://github.com/numanbalik-web  
-- LinkedIn: https://www.linkedin.com/in/numan-balik-sverige  
-- Email: numanbalik72@gmail.com  
+### 🔧 Development Tools
+- 🌿 **Git** – version control  
+- 🐙 **GitHub** – repository management  
+- 🧠 **VS Code** – development environment  
 
 ---
 
-## 🙏 Acknowledgments
+## 📂 Project Structure 📁---
 
-This project was developed during structured frontend training at **Udemig**.  
-Special thanks to **Mehmet Can SEYHAN** for professional mentorship and technical guidance.
+## 🎯 What I Practiced / Improved 🚀
+
+✅ Building clean HTML structure  
+✅ Creating consistent CSS layout rules  
+✅ Improving spacing & typography hierarchy  
+✅ Designing sections like real product landing pages  
+✅ Preparing a professional GitHub README presentation  
 
 ---
 
-⭐ If you find this project valuable, consider giving it a star.
+## 🙏 Special Thanks & Acknowledgments 🌟
+
+This project was developed during my frontend training journey at ** @udemig ** 🎓  
+A big thank you to the instructors and the learning system that supports real-world project development.
+
+👨‍🏫 ** @isveckrali ** – special thanks for mentorship, guidance, and structured support throughout the learning process.  
+Your teaching approach helped me build not only UI skills but also professional discipline. 💪✨
+
+---
+
+## 📞 Contact & Connect 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Numan%20Balık-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numan-balik-sverige)
+[![GitHub](https://img.shields.io/badge/GitHub-numanbalik--web-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/numanbalik-web)
+[![Email](https://img.shields.io/badge/Email-numanbalik72%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:numanbalik72@gmail.com)
+
+---
+
+crypto-web/
+├── index.html
+├── style.css
+├── README.md
+├── images/
+└── screen/
+├── demo.video.gif
+├── screen1.png
+├── screen2.png
+├── screen3.png
+├── screen4.png
+├── screen5.png
+└── fullscreen.png
+
+---
+
+
+⭐ If you found this project helpful, please consider giving it a **star**!  
+Made with ❤️ by **Numan Balık** 🇸🇪
+
