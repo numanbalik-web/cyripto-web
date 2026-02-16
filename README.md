@@ -114,10 +114,10 @@ Complete page view from top to footer (overall structure in one frame).
 
 ## 🙏 Special Thanks & Acknowledgments 🌟
 
-This project was developed during my frontend training journey at ** @udemig ** 🎓  
+This project was developed during my frontend training journey at **[@udemig](https://github.com/udemig)** 🎓  
 A big thank you to the instructors and the learning system that supports real-world project development.
 
-👨‍🏫 ** @isveckrali ** – special thanks for mentorship, guidance, and structured support throughout the learning process.  
+👨‍🏫 **Mehmet Can SEYHAN](https://github.com/isveckrali)** - My Mentor** – special thanks for mentorship, guidance, and structured support throughout the learning process.  
 Your teaching approach helped me build not only UI skills but also professional discipline. 💪✨
 
 ---
